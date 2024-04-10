@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+	 
+  <test name="Test">
+    <classes>
+		<class name="tests.HRMLoginTest"/>
+       <class name="tests.LoginTests"/>
+       <class name="tests.SnipeItTest3" />
+       
+    </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,6 @@
+base\BaseTest.class
+tests\SnipeItTest3.class
+tests\LoginTests.class
+base\BrowserInit.class
+pages\HomePage.class
+tests\HRMLoginTest.class
